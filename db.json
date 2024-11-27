@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "judul":"Hujan", 
+  "penulis":"Tere Liye", 
+  "penerbit":"PT Gramedia Pustaka Umum",
+  "tahunterbit":2016,
+  "jumlahhalaman":320,
+  "sinopsis":"Novel ini menceritakan kisah cinta dua tokoh utama, yaitu Lail dan Esok. Novel ini juga menceritakan kisah dan perjuangan hidup Lail, yang harus menjadi yatim piatu diusia 13 tahun. Lail dan Esok bertemu setelah letusan gunung berapi pada tahun 2042. Akibat dari letusan gunung berapi ini menghancurkan sebagian besar bumi dan hanya meninggalkan 10% manusia di bumi, serta merusak iklim dan cuaca bumi. Lail dan Esok tinggal di tempat pengungsian, mereka selalu bersama-sama dan tidak terpisahkan. Namun setelah pengungsian ditutup, mereka terpisah dan Esok diadopsi oleh keluarga wali kota dan Ia harus pindah ke ibu kota untuk melanjutkan studinya hingga berhasil memciptakan mobil terbang pertama. Sedangkan Lail adalah seorang gadis sederhana yang tinggal di sebuah panti sosial yang akhirnya menjadi relawan kemanusiaan dan bersekolah di sekolah perawat dan berteman dengan Maryam.
+
+Lail ternyata diam-diam mempunyai perasaan lebih terhadap Esok, namun Ia memendamnya bertahun-tahun. Akhirnya Lail memutuskan untuk menyibukkan dirinya dengan kegiatan yang bermanfaat. Lail dan Maryam bergabung dengan organisasi relawan dan mereka adalah relawan termuda. Mereka juga menorehkan prestasi, salah satunya ditempatkan di Distrik 2. Ada dua kota kembar di hulu dan hilir, dan dua kota ini telah dilegalkan sejauh 50 kilometer. Saat itu bendungan di bagian hulu retak, jika bendungan pecah maka akan menghancurkan dua kota kembar tersebut. Saat itu, hanya ada satu cara untuk mencapai bagian hilir yang mungkin bergerak cepat saat badai. Keduanya berhasil memperingati kota tersebut, dan pengabdian mereka benar-benar membuat mereka memenangkan penghargaan.
+
+Dengan kesibukannya, Lail dapat sedikit mengalihkan kerinduannya pada Esok. Esok selalu mengunjungi dengan membawa sepeda merah, sepeda merah ini mereka kenakan saat bencana, dan juga memakai topi yang diberikan Lail kepadanya. Sayangnya, intensitas pertemuan mereka menurun. Jika Esok tidak sibuk, mereka hanya bisa bertemu setahun sekali. Lail tidak pernah menghubungi Esok, dan terkadang dia bertanya kepada ibunya Esok tentang Esok.
+
+
+
+Konten ini telah tayang di Kompasiana.com dengan judul "Resensi Novel "Hujan" Karya Tere Liye", Klik untuk baca:
+https://www.kompasiana.com/lisnalisna/6042444b8ede48582b403ea2/resensi-novel-hujan-karya-tere-liye
+
+Kreator: Lisna
+
+
+
+Kompasiana adalah platform blog. Konten ini menjadi tanggung jawab bloger dan tidak mewakili pandangan redaksi Kompas.
+
+Tulis opini Anda seputar isu terkini di Kompasiana.com"
 }
