@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "books": [
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "pages": 277,
+      "synopsis": "A story about the experiences of a young man, Holden Caulfield, in New York City."
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "pages": 281,
+      "synopsis": "The story of Scout Finch, her brother Jem, and their father Atticus in a racially divided Southern town."
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "pages": 328,
+      "synopsis": "A dystopian novel about a totalitarian regime that employs surveillance and propaganda to oppress its citizens."
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "pages": 279,
+      "synopsis": "A romantic novel that explores the themes of love, reputation, and class in early 19th-century England."
+    }
+  ]
 }
